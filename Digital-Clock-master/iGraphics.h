@@ -1,10 +1,7 @@
 //
-//  Original Author: S. M. Shahriar Nirjon
+//  
 //
-//  Last Modified by: Mohammad Saifur Rahman
-//  last modified: December 20, 2015
-//
-//  Version: 2.0.2012.2015
+//  
 //
 
 # include <stdio.h>
